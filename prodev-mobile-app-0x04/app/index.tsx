@@ -21,7 +21,7 @@ export default function Index(): JSX.Element {
         >
           <View style={styles.container}>
             <View style={styles.companyLogo}>
-              <Image source={require("../assets/images/Logo.png")} />
+              <Image source={require("../assets/images/logo.png")} />
             </View>
 
             <View style={styles.textGroup}>
